@@ -1,1 +1,1 @@
-# ai-mojo-train
+# mlops-zoomcamp-participant
