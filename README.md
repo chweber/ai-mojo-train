@@ -1,1 +1,1 @@
-# mlops-zoomcamp-participant
+# mlops-zoomcamp-project
